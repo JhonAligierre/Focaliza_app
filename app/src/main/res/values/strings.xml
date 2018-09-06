@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Focaliza</string>
+    <string name="password_text">Password</string>
+    <string name="username_text">Username</string>
+    <string name="login_btn">Login</string>
+    <string name="register_text">Registrar agora</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="registrar_bt">Registrar</string>
+    <string name="insira_seu_username">Insira seu Username</string>
+    <string name="todo1">TODO1</string>
+    <string name="insira_seu_e_mail">Insira seu E-mail</string>
+    <string name="e_mail_lb">E-mail</string>
+    <string name="lb_password">Password</string>
+    <string name="repita_o_password">Repita o password</string>
+    <string name="repita_seu_password">Repita seu password</string>
+    <string name="insira_seu_password">Insira seu password</string>
+    <string name="bem_vindo_ao_focaliza">Bem vindo ao Focaliza</string>
+    <string name="insira_um_nome_de_usuario">Insira um nome de usuario</string>
+    <string name="todo22">TODO</string>
+    <string name="level_text">10</string>
+    <string name="username_home">ffff</string>
+    <string name="user_name">TextView</string>
+    <string name="todo1111">TODO</string>
+</resources>
